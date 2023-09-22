@@ -33,7 +33,7 @@ span {
     flex-direction: row;
     justify-content: space-around;
     background-color: white;
-    padding: 30px;
+    padding: auto;
 }
 
 .contacto{
